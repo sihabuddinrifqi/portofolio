@@ -4,6 +4,7 @@ html {
 
 .container {
   @apply mx-auto;
+  
 }
 .about {
   height: 98vh;
