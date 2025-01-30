@@ -18,8 +18,8 @@ const projects = [
     image: Project2,
     description:
       "Titip snack merupakan website untuk mengelola penitipan snack dari warung ke warung, desain ini dibuat dengan figma,",
-    liveDemo: "https://www.figma.com/proto/vbYdpemDeXyNx0b79zJO9H/Aplikasi-Titip-Snack-(Copy)?page-id=2074%3A72&node-id=2074-319&viewport=-509%2C384%2C0.11&t=D8gy820CxAPTv0Fl-1&scaling=contain&content-scaling=fixed&starting-point-node-id=2074%3A293",
-    repository: "#",
+    liveDemo: "http://penitipansnack.my.id/dashboard",
+    repository: "https://www.figma.com/proto/vbYdpemDeXyNx0b79zJO9H/Aplikasi-Titip-Snack-(Copy)?page-id=2074%3A72&node-id=2074-319&viewport=-509%2C384%2C0.11&t=D8gy820CxAPTv0Fl-1&scaling=contain&content-scaling=fixed&starting-point-node-id=2074%3A293",
   },
 
   {
