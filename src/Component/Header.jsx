@@ -35,7 +35,7 @@ const HeroPortfolio = () => {
               I'm{" "}
               <span className="text-2xl font-montserrat font-bold text-blue-300 ">
                 <Typewriter
-                  words={["Full Stack", "Web Developer"]}
+                  words={["Junior Data Analyst", "Web Developer", "UI/UX Design"]}
                   loop={true}
                   cursor
                   cursorStyle="|"
