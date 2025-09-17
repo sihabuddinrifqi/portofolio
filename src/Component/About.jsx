@@ -44,12 +44,12 @@ const About = () => {
             <h1 className="font-bold text-3xl mb-2 mt-1 lg:text-4xl">
               Tentang <span className="text-pink-600">Saya</span>
             </h1>
-            <p className=" lg:text-xl lg:w-4/6 sm:text-sm">
+            <p className=" lg:text-xl lg:w-4/6 sm:text-sm text-justify">
               Halo, perkenalkan nama saya Sihabuddin Rifqi, kamu bisa memanggil saya Sihab. Saya berasal dari Wonosobo, Jawa Tengah. Umur
-              saya saat ini adalah 20 tahun. Saat ini saya masih menempuh pendidikan kuliah S1 semester 5 di
-              Universitas Sains Al Qur'an program studi Teknik Informatika.
+              saya saat ini adalah 21 tahun. Saat ini saya masih menempuh pendidikan kuliah S1 semester 7 di
+              Universitas Sains Al Qur'an program studi Teknik Informatika. Sembari kuliah saya sekarang juga bekerja menjadi Guru Informatika di MTs Ash-Sholihin Wonosobo.
               <p>
-                Saya sangat menyukai hal baru dan memiliki semangat belajar yang tinggi, serta saya akan sangat antusias
+                <br />Saya sangat menyukai hal baru dan memiliki semangat belajar yang tinggi, serta saya akan sangat antusias
                 apabila saya mendapatkan tantangan yang lebih menantang untuk
                 bersaing di bidang industri.
               </p>

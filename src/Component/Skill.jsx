@@ -10,7 +10,7 @@ import Bootstrap from "../logo skill/bootstrap.png";
 import Canva from "../logo skill/canva.png";
 import Laravel from "../logo skill/laravel-2.svg";
 import Figma from "../logo skill/figma.svg";
-import Corel from "../logo skill/corel.svg";
+import Python from "../logo skill/python.png";
 import PS from "../logo skill/ps.svg";
 
 const skills = [
@@ -20,12 +20,12 @@ const skills = [
   { name: "Php", logo: Php, level: "Beginner" },
   { name: "Tailwind", logo: Tailwind, level: "Beginner" },
   { name: "React", logo: Riek, level: "Beginner" },
+  { name: "Python", logo: Python, level: "Intermediate" },
   { name: "Bootstrap", logo: Bootstrap, level: "Intermediate" },
   { name: "Laravel", logo: Laravel, level: "Beginner" },
   { name: "Figma", logo: Figma, level: "Intermediate" },
   { name: "Canva", logo: Canva, level: "Expert" },
   { name: "Photoshop", logo: PS, level: "Intermediate" },
-  { name: "Corel", logo: Corel, level: "Intermediate" },
 ];
 
 const Skill = () => {

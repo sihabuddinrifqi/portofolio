@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Project1 from "../project images/sektal.png";
-import Project2 from "../project images/titip snack.png";
-import Project3 from "../project images/php.png";
-import Project4 from "../project images/inertia.png";
+import Project2 from "../project images/mts.png";
+import Project3 from "../project images/energy.png";
+import Project4 from "../project images/image.png";
 const projects = [
   {
     name: "UI/UX Aplikasi Sekretaris Digital",
@@ -14,30 +14,30 @@ const projects = [
     repository: "#",
   },
   {
-    name: "UI/UX Web Titip Snack",
+    name: "Website Sistem Informasi Akademik MTs Ash-Sholihin",
     image: Project2,
     description:
-      "Titip snack merupakan website untuk mengelola penitipan snack dari warung ke warung, desain ini dibuat dengan figma,",
-    liveDemo: "http://penitipansnack.my.id/dashboard",
-    repository: "https://www.figma.com/proto/vbYdpemDeXyNx0b79zJO9H/Aplikasi-Titip-Snack-(Copy)?page-id=2074%3A72&node-id=2074-319&viewport=-509%2C384%2C0.11&t=D8gy820CxAPTv0Fl-1&scaling=contain&content-scaling=fixed&starting-point-node-id=2074%3A293",
+      "Website ini berisi landing page, kemudian ada fitur untuk mengelola data siswa, guru, walisiswa, nilai dann presensi",
+    liveDemo: "#",
+    repository: "https://github.com/sihabuddinrifqi/web-mts",
   },
 
   {
-    name: "Web Peminjaman Buku",
+    name: "Data Analyst Energi",
     image: Project3,
     description:
-      "Website ini dilengkapi dengan fitur CRUD yang dibuat menggunakan HTML, CSS, dan PHP Native",
+      "Dashboard hasil analisis data energi menggunakan Python dan Ecxel",
     liveDemo: "#",
-    repository: "https://github.com/sihabuddinrifqi/PBO",
+    repository: "#",
   },
 
   {
-    name: "CRUD with inertia.js Laravel",
+    name: "Forecasting Harga Telur",
     image: Project4,
     description:
-      "Ini merupakan web berisi Chirper dengan CRUD yang dibuat menggunakan inertia.js Laravel",
-    liveDemo: "#",
-    repository: "#",
+      "Pembuatan sistem prediksi harga telur menggunakan python dengan algoritma LSTM",
+    liveDemo: "https://forecasting-telur-wonosobo.streamlit.app/",
+    repository: "https://github.com/sihabuddinrifqi/Forecasting-Telur-Wonosobo",
   },
 ];
 
