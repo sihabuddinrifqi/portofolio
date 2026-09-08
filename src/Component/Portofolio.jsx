@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Project1 from "../project images/sektal.png";
 import Project2 from "../project images/mts.png";
-import Project3 from "../project images/energy.png";
+import Project3 from "../project images/rekomendasi.png";
 import Project4 from "../project images/image.png";
 const projects = [
   {
@@ -18,26 +18,26 @@ const projects = [
     image: Project2,
     description:
       "Website ini berisi landing page, kemudian ada fitur untuk mengelola data siswa, guru, walisiswa, nilai dann presensi",
-    liveDemo: "#",
+    liveDemo: "https://github.com/sihabuddinrifqi/web-mts",
     repository: "https://github.com/sihabuddinrifqi/web-mts",
   },
 
   {
-    name: "Data Analyst Energi",
+    name: "Sistem Rekomendasi Program Kepemudaan Kemenpora",
     image: Project3,
     description:
-      "Dashboard hasil analisis data energi menggunakan Python dan Ecxel",
+      "Website berbasis AI ini berisi tes RIASEC yang kemudian akan menampilkan hasil rekomendasi program kepemudaan yang sesuai dengan minat dan bakat pengguna",
     liveDemo: "#",
-    repository: "#",
+    repository: "https://github.com/sihabuddinrifqi/Sistem-Rekomendasi-Program",
   },
 
   {
-    name: "Forecasting Harga Telur",
+    name: "Website Profil Desa Pelutan",
     image: Project4,
     description:
-      "Pembuatan sistem prediksi harga telur menggunakan python dengan algoritma LSTM",
-    liveDemo: "https://forecasting-telur-wonosobo.streamlit.app/",
-    repository: "https://github.com/sihabuddinrifqi/Forecasting-Telur-Wonosobo",
+      "Pembuatan website profil desa pelutan dengan fitur data desa, potensi, berita dan galeri",
+    liveDemo: "#",
+    repository: "https://desapelutan-gebang.my.id/",
   },
 ];
 

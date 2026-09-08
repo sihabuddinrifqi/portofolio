@@ -63,7 +63,7 @@ const Nav = () => {
               className="text-white font-bold text-xl flex items-center gap-3 md:text-lg"
             >
               <img src={Logo} alt="Logo" className="text-white w-10 h-10" />
-              UDDIN-S
+              SIHABUDDIN RIFQI
             </a>
           </div>
           <button
