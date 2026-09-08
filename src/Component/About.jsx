@@ -1,5 +1,5 @@
 import React from "react";
-import Sihab from "./sihab.png";
+import Sihab from "./fotoformal3x4.jpeg";
 import "./HeroPortfolio.css";
 import { Typewriter } from "react-simple-typewriter";
 

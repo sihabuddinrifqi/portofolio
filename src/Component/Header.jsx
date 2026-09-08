@@ -86,7 +86,7 @@ const HeroPortfolio = () => {
                 <a href="https://wa.me/6281325756309">Hire me</a>
               </button>
               <button className="lg:py-4 lg:px-6 py-2 px-3 rounded-md bg-sky-600 text-white font-bold hover:border hover:bg-transparent hover:text-gray-800">
-                <a href="">
+                <a href="https://drive.google.com/file/d/1NcgvMpR4Jcx36E22iekDpcqJNc1JJX3U/view?usp=sharing">
                   <i className="uil uil-arrow-to-bottom"></i>Download CV
                 </a>
               </button>

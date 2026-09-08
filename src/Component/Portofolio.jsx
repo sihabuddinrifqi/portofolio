@@ -36,7 +36,7 @@ const projects = [
     image: Project4,
     description:
       "Pembuatan website profil desa pelutan dengan fitur data desa, potensi, berita dan galeri",
-    liveDemo: "#",
+    liveDemo: "https://desapelutan-gebang.my.id/",
     repository: "https://desapelutan-gebang.my.id/",
   },
 ];
